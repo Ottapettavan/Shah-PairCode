@@ -1,6 +1,4 @@
-//copy code? pls put my github name as credit
-
-//🖕 to those who copy without credit
+thanks for @ottapettavan 
 
 const makeWASocket = require("@whiskeysockets/baileys").default
 
